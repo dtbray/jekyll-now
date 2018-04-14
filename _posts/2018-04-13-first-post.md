@@ -1,9 +1,8 @@
 ---
 layout: post
 date: 2018-04-13
+title: Post the First
 ---
-
-###Post the First
 
 _This is a new thing to me - working from a Linux VM on one monitor while checking the repo on my other monitor.  Of course, it's down at the moment, and I'm not quite sure why.
 
