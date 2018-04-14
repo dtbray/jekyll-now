@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### About Me
+# About me
 
 Burgeoning nerd and former public policy geek.  Let's just call it a work in progress.
 
