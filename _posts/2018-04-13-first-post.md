@@ -1,14 +1,11 @@
 ---
 layout: post
-date: 2018-04-13
-title: "...Is this thing on?"
+date: 2018-05-16
+title: "A New Chapter"
 ---
 
-This is a new thing to me - working from a Linux VM on one monitor while checking the repo on my other monitor.  Of course, it's down at the moment, and I'm not quite sure why.
+To new beginnings!  With graduate school finished, I finally have the time to focus on the things that will matter in my life.  This, of course, is merely an indulgence.
 
-You're probably curious.  What is this?  To be honest, I'm really not sure yet.  I do know that it's altogether _too_ complicated for me to even begin to explain; that's a task for another day.  You could say that it's Agile blogging, but that's an insult to Agile.
+What can you expect from this?  I'll have to get back to you on that.  I imagine I'll write about anything that captures my interest and deserves a post - book reviews, quick IT bites, productivity tips, intellectual musings, and other questionably-useful information.
 
-
-...Except, well, the above didn't work.  Here I am, back in Windows, working from Visual Studio Code to write this.  Much simpler this way.
-
-Anyway, welcome to the blog!  Now, if I could only figure out how to put the proper header in there...
+See you there!
